@@ -1,0 +1,3 @@
+[submodule "caddie-backend-nest"]
+	path = caddie-backend-nest
+	url = git@github.com:La-Fabryck/caddie-backend-nest.git
